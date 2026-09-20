@@ -1,0 +1,26 @@
+{
+  "author": "ClyKiddoYT",
+  "authorInfo": "https://github.com/clykiddoyt",
+  "levelList": [
+    {
+      "fileName": "Walnut Bowling.json",
+      "Information": {
+        "uuid": "36b5f0f4-dfa4-46ec-bb1f-39bc73228897",
+        "name": {
+          "en": "Walnut Bowling",
+          "zh-CN": "核桃保龄球"
+        },
+        "Introduction": {
+          "en": "Bowl walnuts down the lawn and defeat the zombies.",
+          "zh-CN": "沿着草坪滚出核桃，击败僵尸。"
+        },
+        "GameVersion": "0.14.0",
+        "Version": "1.0",
+        "CreatedAt": "2026-09-19",
+        "UpdatedAt": "2026-09-19",
+        "Difficulty": "Normal",
+        "Category": "Minigames"
+      }
+    },
+  ]
+}
